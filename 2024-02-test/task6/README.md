@@ -86,6 +86,7 @@ N
 ### Входные данные
 
 ```
+4
 otLLLrRuEe256LLLN
 LRLUUDE
 itisatest
